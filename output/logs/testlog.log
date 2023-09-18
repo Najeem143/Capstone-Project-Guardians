@@ -1437,3 +1437,20 @@
 2023-09-12 12:40:35,939 - logger_file -INFO - First Order was clicked sucessfully
 2023-09-12 12:40:36,117 - logger_file -INFO - Why is this not working
 2023-09-12 12:40:37,178 - logger_file -INFO - User clicks on review button
+2023-09-13 16:52:02,145 - logger_file -INFO - TekSchool logo is displyed
+2023-09-13 16:52:02,428 - logger_file -INFO - signIn button was clicked successfully
+2023-09-13 16:52:02,994 - logger_file -INFO - user enters email and password successfully
+2023-09-13 16:52:03,130 - logger_file -INFO - signIn button was clicked successfully
+2023-09-13 16:52:03,519 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-13 16:52:03,756 - logger_file -INFO - User clicks on order section
+2023-09-13 16:52:04,099 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,167 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,215 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,264 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,308 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,355 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,403 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,458 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,506 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-13 16:52:04,678 - logger_file -INFO - Why is this not working
+2023-09-13 16:52:05,439 - logger_file -INFO - User clicks on review button
