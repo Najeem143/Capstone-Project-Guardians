@@ -1,3 +1,4 @@
+@smoke
 Feature: Sign in Feature
 ​
 
@@ -16,6 +17,6 @@ Scenario: Verify user can create an account into Retail Website
     And User click on Create New Account button
     And User fill the signUp information with below data
     | name   | email                      | password    | confirmPassword |
-    | student| newStudentt786@tekschool.us | Najeem1433@ | Najeem1433@     |
+    | student| newStudentt6@tekschool.us | Najeem1433@ | Najeem1433@     |
     And User click on SignUp button
     Then User should be logged into account page

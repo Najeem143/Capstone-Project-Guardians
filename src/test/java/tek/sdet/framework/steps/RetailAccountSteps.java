@@ -13,6 +13,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
+import tek.sdet.framework.utilities.DataGenerator;
 
 public class RetailAccountSteps extends CommonUtility {
 	WebDriver driver;
@@ -35,12 +36,12 @@ public class RetailAccountSteps extends CommonUtility {
 			String password = row.get("password");
 			String confirmPassword = row.get("confirmPassword");
 
-			sendText(factory.retailAccount().nameInput, name);
+			sendText(factory.retailAccount().nameInput,name );
 			sendText(factory.retailAccount().emailInput, email);
-			sendText(factory.retailAccount().passwordInput, password);
+			sendText(factory.retailAccount().passwordInput,password );
 			sendText(factory.retailAccount().passwordInputConfirm, confirmPassword);
 
-		}
+	}
 
 	}
 
