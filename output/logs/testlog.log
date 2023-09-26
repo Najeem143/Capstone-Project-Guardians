@@ -1658,3 +1658,8 @@
 2023-09-26 11:40:36,989 - logger_file -INFO - First Order was clicked sucessfully
 2023-09-26 11:40:37,105 - logger_file -INFO - Why is this not working
 2023-09-26 11:40:37,669 - logger_file -INFO - User clicks on review button
+2023-09-26 13:09:01,758 - logger_file -INFO - TekSchool logo is displyed
+2023-09-26 13:09:01,989 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 13:09:02,164 - logger_file -INFO - New account button was clicked successfully
+2023-09-26 13:09:02,944 - logger_file -INFO - Sign up button was clicked successfully
+2023-09-26 13:09:03,351 - logger_file -INFO - User account was created successfully
