@@ -5,7 +5,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import tek.sdet.framework.utilities.CommonUtility;
 
-public class BaseUITest extends CommonUtility {
+public class BaseUITest extends CommonUtility{
 
 	@Before
 	public void setupTests() {
@@ -21,5 +21,4 @@ public class BaseUITest extends CommonUtility {
 		super.quitBrowser();
 	}
 	
-
 }
