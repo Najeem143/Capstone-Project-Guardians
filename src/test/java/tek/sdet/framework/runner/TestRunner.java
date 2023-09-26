@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		
-		tags = "@NewAccount",
+		tags = "@smoke",
         features = ("classpath:features"),
         glue="tek.sdet.framework",
         dryRun = false,
