@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		
-		tags = "@Login",
+		tags = "@Loging",
         features = ("classpath:features"),
         glue="tek.sdet.framework",
         dryRun = false,
