@@ -1607,3 +1607,54 @@
 2023-09-25 11:31:44,942 - logger_file -INFO - The options Athletic Clothingis displayed
 2023-09-25 11:31:45,018 - logger_file -INFO - The options Exercise & Fitnessis displayed
 2023-09-25 11:31:48,432 - logger_file -INFO - SideBar options was clicked successfully
+2023-09-26 11:02:54,491 - logger_file -INFO - TekSchool logo is displyed
+2023-09-26 11:02:54,684 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 11:02:55,089 - logger_file -INFO - user enters email and password successfully
+2023-09-26 11:02:55,219 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 11:02:55,628 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-26 11:02:55,760 - logger_file -INFO - User clicks on order section
+2023-09-26 11:02:56,133 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,175 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,216 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,248 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,286 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,317 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,350 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,382 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,417 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:02:56,551 - logger_file -INFO - Why is this not working
+2023-09-26 11:02:57,095 - logger_file -INFO - User clicks on review button
+2023-09-26 11:25:40,513 - logger_file -INFO - TekSchool logo is displyed
+2023-09-26 11:25:40,718 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 11:25:41,063 - logger_file -INFO - user enters email and password successfully
+2023-09-26 11:25:41,170 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 11:25:41,633 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-26 11:25:41,806 - logger_file -INFO - User clicks on order section
+2023-09-26 11:25:42,075 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,119 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,159 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,189 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,220 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,251 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,283 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,317 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,353 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:25:42,476 - logger_file -INFO - Why is this not working
+2023-09-26 11:25:43,014 - logger_file -INFO - User clicks on review button
+2023-09-26 11:40:35,165 - logger_file -INFO - TekSchool logo is displyed
+2023-09-26 11:40:35,355 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 11:40:35,710 - logger_file -INFO - user enters email and password successfully
+2023-09-26 11:40:35,825 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 11:40:36,307 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-26 11:40:36,458 - logger_file -INFO - User clicks on order section
+2023-09-26 11:40:36,705 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,747 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,793 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,831 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,864 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,895 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,927 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,957 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:36,989 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-26 11:40:37,105 - logger_file -INFO - Why is this not working
+2023-09-26 11:40:37,669 - logger_file -INFO - User clicks on review button
