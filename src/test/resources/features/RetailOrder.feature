@@ -1,3 +1,4 @@
+@smoke
 Feature: Retail Order Page
 
 Background: Retail order page
