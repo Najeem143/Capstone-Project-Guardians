@@ -24,9 +24,9 @@ public class BaseSetup {
 
 	public BaseSetup() {
 
-		String filePath = System.getProperty("user.dir") + "\\src\\main\\resources\\env_config.yml";
+		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
 
-		String log4jPath = System.getProperty("user.dir") + "\\src\\main\\resources\\log4j.properties";
+		String log4jPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
 
 		try {
 

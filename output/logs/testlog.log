@@ -1663,3 +1663,7 @@
 2023-09-26 13:09:02,164 - logger_file -INFO - New account button was clicked successfully
 2023-09-26 13:09:02,944 - logger_file -INFO - Sign up button was clicked successfully
 2023-09-26 13:09:03,351 - logger_file -INFO - User account was created successfully
+2023-09-26 13:15:26,916 - logger_file -INFO - TekSchool logo is displyed
+2023-09-26 13:15:27,231 - logger_file -INFO - signIn button was clicked successfully
+2023-09-26 13:15:27,431 - logger_file -INFO - New account button was clicked successfully
+2023-09-26 13:15:28,329 - logger_file -INFO - Sign up button was clicked successfully
