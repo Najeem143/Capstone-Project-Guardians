@@ -1667,3 +1667,137 @@
 2023-09-26 13:15:27,231 - logger_file -INFO - signIn button was clicked successfully
 2023-09-26 13:15:27,431 - logger_file -INFO - New account button was clicked successfully
 2023-09-26 13:15:28,329 - logger_file -INFO - Sign up button was clicked successfully
+2023-09-27 09:35:35,012 - logger_file -INFO - SideBar options was clicked successfully
+2023-09-27 09:35:39,160 - logger_file -INFO - SideBar options was clicked successfully
+2023-09-27 09:35:39,408 - logger_file -INFO - The options Accessoriesis displayed
+2023-09-27 09:35:39,509 - logger_file -INFO - The options Networkingis displayed
+2023-09-27 09:35:42,647 - logger_file -INFO - SideBar options was clicked successfully
+2023-09-27 09:35:42,974 - logger_file -INFO - The options Plugs and Outletsis displayed
+2023-09-27 09:35:45,838 - logger_file -INFO - SideBar options was clicked successfully
+2023-09-27 09:35:46,202 - logger_file -INFO - The options Athletic Clothingis displayed
+2023-09-27 09:35:46,435 - logger_file -INFO - The options Exercise & Fitnessis displayed
+2023-09-27 09:35:49,381 - logger_file -INFO - SideBar options was clicked successfully
+2023-09-27 09:35:52,432 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:35:52,553 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:35:52,845 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:35:52,940 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:35:53,294 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:35:53,456 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:35:53,964 - logger_file -INFO - Update name and phone number field were filled successfully
+2023-09-27 09:36:17,033 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:36:17,162 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:36:17,469 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:36:17,567 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:36:17,916 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:36:18,094 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:36:18,821 - logger_file -INFO - Payment method added successfully
+2023-09-27 09:36:18,915 - logger_file -INFO - Payment added button was clicked sucessfully
+2023-09-27 09:38:22,610 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:22,722 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:22,987 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:23,077 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:23,435 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:23,580 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:38:24,654 - logger_file -INFO - The edit button has been clicked successfully
+2023-09-27 09:38:25,375 - logger_file -INFO - User successfully updated payment information
+2023-09-27 09:38:25,484 - logger_file -INFO - Card information has be updated sucessfully
+2023-09-27 09:38:28,218 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:28,328 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:28,610 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:28,695 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:29,058 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:29,200 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:38:30,221 - logger_file -INFO - Payment method sucessfully removed from user's account
+2023-09-27 09:38:33,228 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:33,359 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:33,743 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:34,056 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:34,446 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:34,633 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:38:34,780 - logger_file -INFO - Add Adress button was clicked sucessfully
+2023-09-27 09:38:37,636 - logger_file -INFO - Address added sucessfully
+2023-09-27 09:38:40,872 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:41,022 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:41,358 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:41,440 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:41,807 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:41,944 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:38:42,268 - logger_file -INFO - Address Edit button successfully clicked
+2023-09-27 09:38:43,595 - logger_file -INFO - Address update button has successfully been clicked
+2023-09-27 09:38:44,412 - logger_file -INFO - Address has successfully been updated
+2023-09-27 09:38:47,004 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:47,122 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:47,398 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:47,491 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:47,885 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:48,022 - logger_file -INFO - Account button was clicked successfully
+2023-09-27 09:38:48,383 - logger_file -INFO - Address Removed botton was clicked Sucessfully
+2023-09-27 09:38:51,133 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:51,242 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:51,500 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:51,582 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:51,939 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:52,083 - logger_file -INFO - Smart Home catagory was selected successfully
+2023-09-27 09:38:52,229 - logger_file -INFO - search for the item was sucessfull
+2023-09-27 09:38:52,344 - logger_file -INFO - Search button was sucessfully clicked
+2023-09-27 09:38:52,718 - logger_file -INFO - User sucessfully clicked on the item
+2023-09-27 09:38:53,059 - logger_file -INFO - User select the quantity of the product 
+2023-09-27 09:38:53,146 - logger_file -INFO - User sucessfully added item to the cart
+2023-09-27 09:38:56,071 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:38:56,228 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:56,552 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:38:56,651 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:38:57,039 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:38:57,162 - logger_file -INFO - User successfully selected electornics from dropDown menu
+2023-09-27 09:38:57,282 - logger_file -INFO - search for the item was sucessfull
+2023-09-27 09:38:57,387 - logger_file -INFO - Search button was sucessfully clicked
+2023-09-27 09:38:57,679 - logger_file -INFO - user clicks on the item sucessfully
+2023-09-27 09:38:58,019 - logger_file -INFO - User select the quantity of the product 
+2023-09-27 09:38:58,112 - logger_file -INFO - User sucessfully added item to the cart
+2023-09-27 09:39:01,382 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:39:01,496 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:39:01,770 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:39:01,856 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:39:02,361 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:39:02,541 - logger_file -INFO - User clicks on order section
+2023-09-27 09:39:03,227 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,256 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,283 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,316 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,348 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,379 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,408 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,440 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:39:03,475 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:41:06,460 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:41:06,575 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:41:06,847 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:41:06,933 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:41:07,592 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:41:07,694 - logger_file -INFO - User clicks on order section
+2023-09-27 09:43:10,606 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:43:10,719 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:43:11,003 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:43:11,099 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:43:11,471 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:43:11,578 - logger_file -INFO - User clicks on order section
+2023-09-27 09:43:11,950 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:11,978 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,007 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,036 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,066 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,096 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,125 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,155 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,183 - logger_file -INFO - First Order was clicked sucessfully
+2023-09-27 09:43:12,299 - logger_file -INFO - Why is this not working
+2023-09-27 09:43:12,709 - logger_file -INFO - User clicks on review button
+2023-09-27 09:43:15,292 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:43:15,405 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:43:15,667 - logger_file -INFO - user enters email and password successfully
+2023-09-27 09:43:15,752 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:43:16,115 - logger_file -INFO - Log out button is diplayed and user signed in successfully
+2023-09-27 09:43:20,573 - logger_file -INFO - TekSchool logo is displyed
+2023-09-27 09:43:20,683 - logger_file -INFO - signIn button was clicked successfully
+2023-09-27 09:43:20,786 - logger_file -INFO - New account button was clicked successfully
+2023-09-27 09:43:21,387 - logger_file -INFO - Sign up button was clicked successfully
